@@ -1,0 +1,330 @@
+<svg id="mermaid-svg-TwXFEJTToDp25wao" width="820.2552490234375" xmlns="http://www.w3.org/2000/svg" height="646" viewBox="0 0 820.2552490234375 646" class="mermaid-svg">
+  <style>#mermaid-svg-TwXFEJTToDp25wao {font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;fill:#333;}#mermaid-svg-TwXFEJTToDp25wao .error-icon{fill:#552222;}#mermaid-svg-TwXFEJTToDp25wao .error-text{fill:#552222;stroke:#552222;}#mermaid-svg-TwXFEJTToDp25wao .edge-thickness-normal{stroke-width:2px;}#mermaid-svg-TwXFEJTToDp25wao .edge-thickness-thick{stroke-width:3.5px;}#mermaid-svg-TwXFEJTToDp25wao .edge-pattern-solid{stroke-dasharray:0;}#mermaid-svg-TwXFEJTToDp25wao .edge-pattern-dashed{stroke-dasharray:3;}#mermaid-svg-TwXFEJTToDp25wao .edge-pattern-dotted{stroke-dasharray:2;}#mermaid-svg-TwXFEJTToDp25wao .marker{fill:#333333;stroke:#333333;}#mermaid-svg-TwXFEJTToDp25wao .marker.cross{stroke:#333333;}#mermaid-svg-TwXFEJTToDp25wao svg{font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:16px;}#mermaid-svg-TwXFEJTToDp25wao .label{font-family:"trebuchet ms",verdana,arial,sans-serif;color:#333;}#mermaid-svg-TwXFEJTToDp25wao .cluster-label text{fill:#333;}#mermaid-svg-TwXFEJTToDp25wao .cluster-label span{color:#333;}#mermaid-svg-TwXFEJTToDp25wao .label text,#mermaid-svg-TwXFEJTToDp25wao span{fill:#333;color:#333;}#mermaid-svg-TwXFEJTToDp25wao .node rect,#mermaid-svg-TwXFEJTToDp25wao .node circle,#mermaid-svg-TwXFEJTToDp25wao .node ellipse,#mermaid-svg-TwXFEJTToDp25wao .node polygon,#mermaid-svg-TwXFEJTToDp25wao .node path{fill:#ECECFF;stroke:#9370DB;stroke-width:1px;}#mermaid-svg-TwXFEJTToDp25wao .node .label{text-align:center;}#mermaid-svg-TwXFEJTToDp25wao .node.clickable{cursor:pointer;}#mermaid-svg-TwXFEJTToDp25wao .arrowheadPath{fill:#333333;}#mermaid-svg-TwXFEJTToDp25wao .edgePath .path{stroke:#333333;stroke-width:2.0px;}#mermaid-svg-TwXFEJTToDp25wao .flowchart-link{stroke:#333333;fill:none;}#mermaid-svg-TwXFEJTToDp25wao .edgeLabel{background-color:#e8e8e8;text-align:center;}#mermaid-svg-TwXFEJTToDp25wao .edgeLabel rect{opacity:0.5;background-color:#e8e8e8;fill:#e8e8e8;}#mermaid-svg-TwXFEJTToDp25wao .cluster rect{fill:#ffffde;stroke:#aaaa33;stroke-width:1px;}#mermaid-svg-TwXFEJTToDp25wao .cluster text{fill:#333;}#mermaid-svg-TwXFEJTToDp25wao .cluster span{color:#333;}#mermaid-svg-TwXFEJTToDp25wao div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:"trebuchet ms",verdana,arial,sans-serif;font-size:12px;background:hsl(80, 100%, 96.2745098039%);border:1px solid #aaaa33;border-radius:2px;pointer-events:none;z-index:100;}#mermaid-svg-TwXFEJTToDp25wao :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style>
+  <g>
+   <g class="output">
+    <g class="clusters"></g>
+    <g class="edgePaths">
+     <g class="edgePath LS-A LE-B" style="opacity: 1;" id="L-A-B">
+      <path class="path" d="M541.8489608764648,54L541.8489608764648,58.166666666666664C541.8489608764648,62.333333333333336,541.8489608764648,70.66666666666667,541.8489608764648,79C541.8489608764648,87.33333333333333,541.8489608764648,95.66666666666667,541.8489608764648,99.83333333333333L541.8489608764648,104" marker-end="url(#arrowhead442)" style="fill:none"></path>
+      <defs>
+       <marker id="arrowhead442" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-B LE-C" style="opacity: 1;" id="L-B-C">
+      <path class="path" d="M469.7106412043337,176L461.3612986496889,180.16666666666666C453.01195609504407,184.33333333333334,436.3132709857544,192.66666666666666,427.96392843110965,201C419.61458587646484,209.33333333333334,419.61458587646484,217.66666666666666,419.61458587646484,221.83333333333334L419.61458587646484,226" marker-end="url(#arrowhead443)" style="fill:none"></path>
+      <defs>
+       <marker id="arrowhead443" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-C LE-D" style="opacity: 1;" id="L-C-D">
+      <path class="path" d="M373.31771087646484,284.2539652021837L359.883248647054,290.7116376684864C346.44878641764325,297.1693101347891,319.5798619588216,310.0846550673946,306.1453997294108,322.8756608670306C292.7109375,335.6666666666667,292.7109375,348.3333333333333,292.7109375,354.6666666666667L292.7109375,361" marker-end="url(#arrowhead444)" style="fill:none"></path>
+      <defs>
+       <marker id="arrowhead444" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-D LE-E" style="opacity: 1;" id="L-D-E">
+      <path class="path" d="M251.6390881147541,407L240.32944842896174,413.3333333333333C229.0198087431694,419.6666666666667,206.40052937158467,432.3333333333333,186.9114156420765,445C167.42230191256832,457.6666666666667,151.0633538251366,470.3333333333333,142.88387978142077,476.6666666666667L134.70440573770492,483" marker-end="url(#arrowhead445)" style="fill:none"></path>
+      <defs>
+       <marker id="arrowhead445" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-G LE-E" style="opacity: 1;" id="L-G-E">
+      <path class="path" d="M95,407L95,413.3333333333333C95,419.6666666666667,95,432.3333333333333,96.03825136612022,445C97.07650273224044,457.6666666666667,99.15300546448088,470.3333333333333,100.19125683060109,476.6666666666667L101.22950819672131,483" marker-end="url(#arrowhead446)" style="fill:none"></path>
+      <defs>
+       <marker id="arrowhead446" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-E LE-F" style="opacity: 1;" id="L-E-F">
+      <path class="path" d="M81.24590163934425,529L74.70491803278688,535.3333333333334C68.1639344262295,541.6666666666666,55.08196721311475,554.3333333333334,48.540983606557376,564.8333333333334C42,575.3333333333334,42,583.6666666666666,42,587.8333333333334L42,592" marker-end="url(#arrowhead447)" style="fill:none"></path>
+      <defs>
+       <marker id="arrowhead447" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-E LE-H" style="opacity: 1;" id="L-E-H">
+      <path class="path" d="M128.75409836065575,529L135.29508196721312,535.3333333333334C141.8360655737705,541.6666666666666,154.91803278688525,554.3333333333334,161.45901639344262,564.8333333333334C168,575.3333333333334,168,583.6666666666666,168,587.8333333333334L168,592" marker-end="url(#arrowhead448)" style="fill:none"></path>
+      <defs>
+       <marker id="arrowhead448" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-B LE-B_Note" style="opacity: 1;" id="L-B-B_Note">
+      <path class="path" d="M613.987280548596,176L622.3366231032409,180.16666666666666C630.6859656578856,184.33333333333334,647.3846507671752,192.66666666666666,655.7339933218201,203.16666666666666C664.0833358764648,213.66666666666666,664.0833358764648,226.33333333333334,664.0833358764648,232.66666666666666L664.0833358764648,239" marker-end="url(#arrowhead449)" style="fill:none;stroke-width:2px;stroke-dasharray:3;"></path>
+      <defs>
+       <marker id="arrowhead449" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-C LE-C_Note" style="opacity: 1;" id="L-C-C_Note">
+      <path class="path" d="M465.91146087646484,284.2539652021837L479.34592310587567,290.7116376684864C492.78038533528644,297.1693101347891,519.649309794108,310.0846550673946,533.0837720235189,320.708994200364C546.5182342529297,331.3333333333333,546.5182342529297,339.6666666666667,546.5182342529297,343.8333333333333L546.5182342529297,348" marker-end="url(#arrowhead450)" style="fill:none;stroke-width:2px;stroke-dasharray:3;"></path>
+      <defs>
+       <marker id="arrowhead450" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+     <g class="edgePath LS-D LE-D_Note" style="opacity: 1;" id="L-D-D_Note">
+      <path class="path" d="M304.078381147541,407L307.2085467896175,413.3333333333333C310.338712431694,419.6666666666667,316.599043715847,432.3333333333333,319.7292093579235,442.8333333333333C322.859375,453.3333333333333,322.859375,461.6666666666667,322.859375,465.8333333333333L322.859375,470" marker-end="url(#arrowhead451)" style="fill:none;stroke-width:2px;stroke-dasharray:3;"></path>
+      <defs>
+       <marker id="arrowhead451" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto">
+        <path d="M 0 0 L 10 5 L 0 10 z" class="arrowheadPath" style="stroke-width: 1; stroke-dasharray: 1, 0;"></path>
+       </marker>
+      </defs>
+     </g>
+    </g>
+    <g class="edgeLabels">
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-A-B" class="edgeLabel L-LS-A' L-LE-B"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-B-C" class="edgeLabel L-LS-B' L-LE-C"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-C-D" class="edgeLabel L-LS-C' L-LE-D"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-D-E" class="edgeLabel L-LS-D' L-LE-E"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-G-E" class="edgeLabel L-LS-G' L-LE-E"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-E-F" class="edgeLabel L-LS-E' L-LE-F"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-E-H" class="edgeLabel L-LS-E' L-LE-H"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-B-B_Note" class="edgeLabel L-LS-B' L-LE-B_Note"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-C-C_Note" class="edgeLabel L-LS-C' L-LE-C_Note"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+     <g class="edgeLabel" style="opacity: 1;" transform="">
+      <g transform="translate(0,0)" class="label">
+       <rect rx="0" ry="0" width="0" height="0"></rect>
+       <foreignObject width="0" height="0">
+        <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+         <span id="L-L-D-D_Note" class="edgeLabel L-LS-D' L-LE-D_Note"></span>
+        </div>
+       </foreignObject>
+      </g>
+     </g>
+    </g>
+    <g class="nodes">
+     <g class="node default" style="opacity: 1;" id="flowchart-A-882" transform="translate(541.8489608764648,31)">
+      <rect rx="0" ry="0" x="-78.703125" y="-23" width="157.40625" height="46" class="label-container" style="fill:#fff;stroke:#333;stroke-width:1px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-68.703125,-13)">
+        <foreignObject width="137.40625" height="26">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          mybatis-config.xml
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-B-883" transform="translate(541.8489608764648,140)">
+      <rect rx="0" ry="0" x="-73.18229293823242" y="-36" width="146.36458587646484" height="72" class="label-container" style="fill:#d5e8d4;stroke:#82b366;stroke-width:1.5px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-63.18229293823242,-26)">
+        <foreignObject width="126.36458587646484" height="52">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          构建会话工厂
+          <br>SqlSessionFactory
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-C-884" transform="translate(419.61458587646484,262)">
+      <rect rx="0" ry="0" x="-46.296875" y="-36" width="92.59375" height="72" class="label-container" style="fill:#d5e8d4;stroke:#82b366;stroke-width:1.5px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-36.296875,-26)">
+        <foreignObject width="72.59375" height="52">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          创建会话
+          <br>SqlSession
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-D-885" transform="translate(292.7109375,384)">
+      <rect rx="0" ry="0" x="-65.5625" y="-23" width="131.125" height="46" class="label-container" style="fill:#f8cecc;stroke:#b85450;stroke-width:1.5px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-55.5625,-13)">
+        <foreignObject width="111.125" height="26">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          Executor执行器
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-E-886" transform="translate(105,506)">
+      <rect rx="0" ry="0" x="-90.921875" y="-23" width="181.84375" height="46" class="label-container" style="fill:#dae8fc;stroke:#6c8ebf;stroke-width:1.5px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-80.921875,-13)">
+        <foreignObject width="161.84375" height="26">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          MappedStatement对象
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-F-887" transform="translate(42,615)">
+      <rect rx="0" ry="0" x="-34" y="-23" width="68" height="46" class="label-container" style="fill:#e3d1a3;stroke:#b09552;stroke-width:1.5px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-24,-13)">
+        <foreignObject width="48" height="26">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          数据库
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-G-888" transform="translate(95,384)">
+      <rect rx="0" ry="0" x="-42" y="-23" width="84" height="46" class="label-container" style="fill:#e6d0de;stroke:#996185;stroke-width:1.5px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-32,-13)">
+        <foreignObject width="64" height="26">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          输入参数
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-H-889" transform="translate(168,615)">
+      <rect rx="0" ry="0" x="-42" y="-23" width="84" height="46" class="label-container" style="fill:#ffe6cc;stroke:#d79b00;stroke-width:1.5px;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g transform="translate(-32,-13)">
+        <foreignObject width="64" height="26">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          输出结果
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-B_Note-904" transform="translate(664.0833358764648,262)">
+      <rect rx="0" ry="0" x="-148.171875" y="-23" width="296.34375" height="46" class="label-container" style="fill:transparent;stroke:transparent;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g style="color:#666;" transform="translate(-138.171875,-13)">
+        <foreignObject width="276.34375" height="26">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          (会话工厂，全局单例，生产SqlSession)
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-C_Note-905" transform="translate(546.5182342529297,384)">
+      <rect rx="0" ry="0" x="-138.2447967529297" y="-36" width="276.4895935058594" height="72" class="label-container" style="fill:transparent;stroke:transparent;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g style="color:#666;" transform="translate(-128.2447967529297,-26)">
+        <foreignObject width="256.4895935058594" height="52">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          (与数据库的会话，包含所有SQL方法
+          <br>每次操作创建新会话)
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+     <g class="node default" style="opacity: 1;" id="flowchart-D_Note-906" transform="translate(322.859375,506)">
+      <rect rx="0" ry="0" x="-76.9375" y="-36" width="153.875" height="72" class="label-container" style="fill:transparent;stroke:transparent;"></rect>
+      <g class="label" transform="translate(0,0)">
+       <g style="color:#666;" transform="translate(-66.9375,-26)">
+        <foreignObject width="133.875" height="52">
+         <div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">
+          (实际执行操作接口
+          <br>负责缓存维护)
+         </div>
+        </foreignObject>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </svg>
