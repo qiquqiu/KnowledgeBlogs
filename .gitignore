@@ -1,0 +1,10 @@
+# 默认忽略的文件
+/.idea
+/shelf/
+/workspace.xml
+/httpRequests/
+/mavenHomeManager.xml
+/dataSources/
+/dataSources.local.xml
+
+/draft
